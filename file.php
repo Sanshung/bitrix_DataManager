@@ -1,3 +1,4 @@
+<?
 use Bitrix\Main\Web\HttpClient,
 Bitrix\Main\Entity;
 class PreLoadVKTable extends Entity\DataManager
